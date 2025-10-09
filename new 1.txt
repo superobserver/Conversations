@@ -1,0 +1,281 @@
+
+
+
+
+primitive= 11 y= 32 z= 49 o= 59
+primitive= 11 y= 230 z= 49 o= 59
+primitive= 11 y= 608 z= 49 o= 59
+
+
+primitive= 11 y= 34 z= 37 o= 83
+primitive= 11 y= 244 z= 37 o= 83
+primitive= 11 y= 634 z= 37 o= 83
+
+
+
+primitive= 11 y= 38 z= 47 o= 73
+primitive= 11 y= 248 z= 47 o= 73
+primitive= 11 y= 638 z= 47 o= 73
+
+
+
+primitive= 11 y= 48 z= 61 o= 71
+primitive= 11 y= 270 z= 61 o= 71
+primitive= 11 y= 672 z= 61 o= 71
+
+
+
+primitive= 11 y= 78 z= 79 o= 89
+primitive= 11 y= 336 z= 79 o= 89
+primitive= 11 y= 774 z= 79 o= 89
+
+
+
+
+primitive= 13 y= 6 z= 7 o= 79
+primitive= 13 y= 182 z= 7 o= 79
+primitive= 13 y= 538 z= 7 o= 79
+
+
+
+primitive= 13 y= 13 z= 13 o= 91
+primitive= 13 y= 207 z= 13 o= 91
+primitive= 13 y= 581 z= 13 o= 91
+
+
+
+
+
+primitive= 13 y= 14 z= 19 o= 67
+primitive= 13 y= 190 z= 19 o= 67
+primitive= 13 y= 546 z= 19 o= 67
+
+
+
+primitive= 13 y= 20 z= 37 o= 49
+primitive= 13 y= 196 z= 37 o= 49
+primitive= 13 y= 552 z= 37 o= 49
+
+
+
+primitive= 13 y= 25 z= 31 o= 73
+primitive= 13 y= 219 z= 31 o= 73
+primitive= 13 y= 593 z= 31 o= 73
+
+
+
+primitive= 13 y= 10 z= 11 o= 83
+primitive= 13 y= 194 z= 11 o= 83
+primitive= 13 y= 558 z= 11 o= 83
+
+
+
+primitive= 13 y= 15 z= 29 o= 47
+primitive= 13 y= 181 z= 29 o= 47
+primitive= 13 y= 527 z= 29 o= 47
+
+
+
+primitive= 13 y= 18 z= 23 o= 71
+primitive= 13 y= 202 z= 23 o= 71
+primitive= 13 y= 566 z= 23 o= 71
+
+
+
+primitive= 13 y= 24 z= 41 o= 53
+primitive= 13 y= 208 z= 41 o= 53
+primitive= 13 y= 572 z= 41 o= 53
+
+
+
+primitive= 13 y= 11 z= 17 o= 59
+primitive= 13 y= 177 z= 17 o= 59
+primitive= 13 y= 523 z= 17 o= 59
+
+
+
+primitive= 13 y= 76 z= 77 o= 89
+primitive= 13 y= 332 z= 77 o= 89
+primitive= 13 y= 768 z= 77 o= 89
+
+
+
+primitive= 13 y= 29 z= 43 o= 61
+primitive= 13 y= 223 z= 43 o= 61
+primitive= 13 y= 597 z= 43 o= 61
+
+
+
+
+
+
+primitive= 11 y= 994 z= 7 o= 53
+
+primitive= 11 y= 998 z= 17 o= 43
+primitive= 11 y= 1091 z= 13 o= 77
+primitive= 11 y= 1127 z= 11 o= 91
+primitive= 11 y= 1040 z= 31 o= 41
+primitive= 11 y= 1097 z= 23 o= 67
+primitive= 11 y= 1166 z= 49 o= 59
+primitive= 11 y= 1204 z= 37 o= 83
+primitive= 11 y= 1208 z= 47 o= 73
+primitive= 11 y= 1254 z= 61 o= 71
+primitive= 11 y= 1392 z= 79 o= 89
+
+primitive= 13 y= 1135 z= 13 o= 91
+primitive= 13 y= 1082 z= 19 o= 67
+primitive= 13 y= 1088 z= 37 o= 49
+primitive= 13 y= 1147 z= 31 o= 73
+primitive= 13 y= 1102 z= 11 o= 83
+primitive= 13 y= 1053 z= 29 o= 47
+primitive= 13 y= 1110 z= 23 o= 71
+primitive= 13 y= 1116 z= 41 o= 53
+primitive= 13 y= 1049 z= 17 o= 59
+primitive= 13 y= 1384 z= 77 o= 89
+primitive= 13 y= 1074 z= 7 o= 79
+primitive= 13 y= 1151 z= 43 o= 61
+
+primitive= 11 y= 1684 z= 7 o= 53
+primitive= 11 y= 1688 z= 17 o= 43
+primitive= 11 y= 1811 z= 13 o= 77
+primitive= 11 y= 1859 z= 11 o= 91
+primitive= 11 y= 1742 z= 31 o= 41
+primitive= 11 y= 1817 z= 23 o= 67
+primitive= 11 y= 1904 z= 49 o= 59
+primitive= 11 y= 1954 z= 37 o= 83
+primitive= 11 y= 1958 z= 47 o= 73
+primitive= 11 y= 2016 z= 61 o= 71
+primitive= 11 y= 2190 z= 79 o= 89
+
+primitive= 13 y= 1869 z= 13 o= 91
+primitive= 13 y= 1798 z= 19 o= 67
+primitive= 13 y= 1804 z= 37 o= 49
+primitive= 13 y= 1881 z= 31 o= 73
+primitive= 13 y= 1826 z= 11 o= 83
+primitive= 13 y= 1759 z= 29 o= 47
+primitive= 13 y= 1834 z= 23 o= 71
+primitive= 13 y= 1840 z= 41 o= 53
+primitive= 13 y= 1755 z= 17 o= 59
+primitive= 13 y= 2180 z= 77 o= 89
+primitive= 13 y= 1790 z= 7 o= 79
+primitive= 13 y= 1885 z= 43 o= 61
+
+primitive= 11 y= 2554 z= 7 o= 53
+primitive= 11 y= 2558 z= 17 o= 43
+primitive= 11 y= 2711 z= 13 o= 77
+primitive= 11 y= 2771 z= 11 o= 91
+primitive= 11 y= 2624 z= 31 o= 41
+primitive= 11 y= 2717 z= 23 o= 67
+primitive= 11 y= 2822 z= 49 o= 59
+primitive= 11 y= 2884 z= 37 o= 83
+primitive= 11 y= 2888 z= 47 o= 73
+primitive= 11 y= 2958 z= 61 o= 71
+primitive= 11 y= 3168 z= 79 o= 89
+primitive= 13 y= 2783 z= 13 o= 91
+primitive= 13 y= 2694 z= 19 o= 67
+primitive= 13 y= 2700 z= 37 o= 49
+primitive= 13 y= 2795 z= 31 o= 73
+primitive= 13 y= 2730 z= 11 o= 83
+primitive= 13 y= 2645 z= 29 o= 47
+primitive= 13 y= 2738 z= 23 o= 71
+primitive= 13 y= 2744 z= 41 o= 53
+primitive= 13 y= 2641 z= 17 o= 59
+primitive= 13 y= 3156 z= 77 o= 89
+primitive= 13 y= 2686 z= 7 o= 79
+primitive= 13 y= 2799 z= 43 o= 61
+primitive= 11 y= 3604 z= 7 o= 53
+primitive= 11 y= 3534 z= 19 o= 29
+primitive= 11 y= 3608 z= 17 o= 43
+primitive= 11 y= 3791 z= 13 o= 77
+primitive= 11 y= 3863 z= 11 o= 91
+primitive= 11 y= 3686 z= 31 o= 41
+primitive= 11 y= 3797 z= 23 o= 67
+primitive= 11 y= 3920 z= 49 o= 59
+primitive= 11 y= 3994 z= 37 o= 83
+primitive= 11 y= 3998 z= 47 o= 73
+primitive= 11 y= 4080 z= 61 o= 71
+primitive= 11 y= 4326 z= 79 o= 89
+primitive= 13 y= 3877 z= 13 o= 91
+primitive= 13 y= 3770 z= 19 o= 67
+primitive= 13 y= 3776 z= 37 o= 49
+primitive= 13 y= 3889 z= 31 o= 73
+primitive= 13 y= 3814 z= 11 o= 83
+primitive= 13 y= 3711 z= 29 o= 47
+primitive= 13 y= 3822 z= 23 o= 71
+primitive= 13 y= 3828 z= 41 o= 53
+primitive= 13 y= 3707 z= 17 o= 59
+primitive= 13 y= 4312 z= 77 o= 89
+primitive= 13 y= 3762 z= 7 o= 79
+primitive= 13 y= 3893 z= 43 o= 61
+primitive= 11 y= 4834 z= 7 o= 53
+primitive= 11 y= 4752 z= 19 o= 29
+primitive= 11 y= 4838 z= 17 o= 43
+primitive= 11 y= 5051 z= 13 o= 77
+primitive= 11 y= 5135 z= 11 o= 91
+primitive= 11 y= 4928 z= 31 o= 41
+primitive= 11 y= 5057 z= 23 o= 67
+primitive= 11 y= 5198 z= 49 o= 59
+primitive= 11 y= 5284 z= 37 o= 83
+primitive= 11 y= 5288 z= 47 o= 73
+primitive= 11 y= 5382 z= 61 o= 71
+primitive= 11 y= 5664 z= 79 o= 89
+primitive= 13 y= 5151 z= 13 o= 91
+primitive= 13 y= 5026 z= 19 o= 67
+primitive= 13 y= 5032 z= 37 o= 49
+primitive= 13 y= 5163 z= 31 o= 73
+primitive= 13 y= 5078 z= 11 o= 83
+primitive= 13 y= 4957 z= 29 o= 47
+primitive= 13 y= 5086 z= 23 o= 71
+primitive= 13 y= 5092 z= 41 o= 53
+primitive= 13 y= 4953 z= 17 o= 59
+primitive= 13 y= 5648 z= 77 o= 89
+primitive= 13 y= 5018 z= 7 o= 79
+primitive= 13 y= 5167 z= 43 o= 61
+primitive= 11 y= 6244 z= 7 o= 53
+primitive= 11 y= 6150 z= 19 o= 29
+primitive= 11 y= 6248 z= 17 o= 43
+primitive= 11 y= 6491 z= 13 o= 77
+primitive= 11 y= 6587 z= 11 o= 91
+primitive= 11 y= 6350 z= 31 o= 41
+primitive= 11 y= 6497 z= 23 o= 67
+primitive= 11 y= 6656 z= 49 o= 59
+primitive= 11 y= 6754 z= 37 o= 83
+primitive= 11 y= 6758 z= 47 o= 73
+primitive= 11 y= 6864 z= 61 o= 71
+primitive= 11 y= 7182 z= 79 o= 89
+primitive= 13 y= 6605 z= 13 o= 91
+primitive= 13 y= 6462 z= 19 o= 67
+primitive= 13 y= 6468 z= 37 o= 49
+primitive= 13 y= 6617 z= 31 o= 73
+primitive= 13 y= 6522 z= 11 o= 83
+primitive= 13 y= 6383 z= 29 o= 47
+primitive= 13 y= 6530 z= 23 o= 71
+primitive= 13 y= 6536 z= 41 o= 53
+primitive= 13 y= 6379 z= 17 o= 59
+primitive= 13 y= 7164 z= 77 o= 89
+primitive= 13 y= 6454 z= 7 o= 79
+primitive= 13 y= 6621 z= 43 o= 61
+primitive= 11 y= 7834 z= 7 o= 53
+primitive= 11 y= 7728 z= 19 o= 29
+primitive= 11 y= 7838 z= 17 o= 43
+primitive= 11 y= 8111 z= 13 o= 77
+primitive= 11 y= 8219 z= 11 o= 91
+primitive= 11 y= 7952 z= 31 o= 41
+primitive= 11 y= 8117 z= 23 o= 67
+primitive= 11 y= 8294 z= 49 o= 59
+primitive= 11 y= 8404 z= 37 o= 83
+primitive= 11 y= 8408 z= 47 o= 73
+primitive= 11 y= 8526 z= 61 o= 71
+primitive= 11 y= 8880 z= 79 o= 89
+primitive= 13 y= 8239 z= 13 o= 91
+primitive= 13 y= 8078 z= 19 o= 67
+primitive= 13 y= 8084 z= 37 o= 49
+primitive= 13 y= 8251 z= 31 o= 73
+primitive= 13 y= 8146 z= 11 o= 83
+primitive= 13 y= 7989 z= 29 o= 47
+primitive= 13 y= 8154 z= 23 o= 71
+primitive= 13 y= 8160 z= 41 o= 53
+primitive= 13 y= 7985 z= 17 o= 59
+primitive= 13 y= 8860 z= 77 o= 89
+primitive= 13 y= 8070 z= 7 o= 79
+primitive= 13 y= 8255 z= 43 o= 61

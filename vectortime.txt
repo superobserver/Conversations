@@ -1,0 +1,41 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+
+# Operator for k=11: n = 90x^2 - 120x + 34 (7·53)
+def compute_vector(x, l=120, m=34, p=7, q=53):
+    n = 90 * x**2 - l * x + m
+    p_x = p + 90 * (x - 1)
+    q_x = q + 90 * (x - 1)
+    return p_x, q_x, n
+
+# Generate points
+x_vals = np.arange(1, 6)  # x=1 to 5
+p_vals, q_vals, n_vals = [], [], []
+for x in x_vals:
+    p_x, q_x, n = compute_vector(x)
+    p_vals.append(p_x)
+    q_vals.append(q_x)
+    n_vals.append(n)
+
+# Plot
+fig = plt.figure()
+ax = fig.add_subplot(111, projection='3d')
+ax.plot(p_vals, q_vals, n_vals, marker='o', label='7·53 Operator')
+ax.set_xlabel('p_x')
+ax.set_ylabel('q_x')
+ax.set_zlabel('n')
+ax.set_title('Vector Path for k=11 Operator')
+ax.legend()
+
+# Add another operator: n = 90x^2 - 132x + 48 (19·29)
+p_vals2, q_vals2, n_vals2 = [], [], []
+for x in x_vals:
+    p_x, q_x, n = compute_vector(x, l=132, m=48, p=19, q=29)
+    p_vals2.append(p_x)
+    q_vals2.append(q_x)
+    n_vals2.append(n)
+ax.plot(p_vals2, q_vals2, n_vals2, marker='o', label='19·29 Operator')
+ax.legend()
+
+plt.show()

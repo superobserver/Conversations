@@ -1,0 +1,23 @@
+This is count (11,13) A224854, 16689
+This is count (17,19) A224855, 16630
+This is count (29,31) A224856, 16413
+This is count (41,43) A224857, 16669
+This is count (47,49) A224859, 16516
+This is count (59,61) A224860, 16473
+This is count (71,73) A224862, 16407
+This is count (77,79) A224864, 16614
+This is count (89,91) A224865, 16464
+This is the total twin primes per x 60 148875
+
+This failed at x,z,o,y 60 79 91 323399
+This failed at x,z,o,y 60 89 91 323999
+This is count (11,13) A224854, 16689
+This is count (17,19) A224855, 16630
+This is count (29,31) A224856, 16413
+This is count (41,43) A224857, 16669
+This is count (47,49) A224859, 16516
+This is count (59,61) A224860, 16473
+This is count (71,73) A224862, 16407
+This is count (77,79) A224864, 16614
+This is count (89,91) A224865, 16464
+This is the total twin primes per x 60 148875
