@@ -20,7 +20,7 @@ from mpl_toolkits.mplot3d.art3d import Poly3DCollection  # Fixed: Import added
 #h = input("Your number here (3 is big for cmall video cards)")
 #h = int(h)
 
-h = 3  # Change as needed
+h = 2  # Change as needed
 epoch = 90 * (h * h) - 12 * h + 1
 limit = epoch
 
