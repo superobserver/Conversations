@@ -126,10 +126,10 @@ def show_interactive_overlay_map(amplitudes_dict, n_rows, m_cols, class_colors,
 classes = [11, 13]  # Paired classes for twins
 class_colors = {11: [1, 0, 0],  # Red for class 11
                 13: [0, 0, 1]}  # Blue for class 13 (overlaps = purple)
-start_index = 0
-total_length = 100000000
-n_rows = 10000
-m_cols = 10000
+start_index = 10000000
+total_length = 1000000
+n_rows = 1000
+m_cols = 1000
 
 # ================= RUN =================
 amplitudes_dict = compute_amplitudes(classes, start_index, total_length)

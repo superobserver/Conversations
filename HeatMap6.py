@@ -45,8 +45,11 @@ def compute_amplitudes(classes, start_index, total_length):
     for k in classes:
         all_ops.extend(get_operators(k))
     
+    active_cohort = set()  # Unique active operators
+    
     for x in range(1, new_limit + 1):
-        for l_val, m_val, z, primitive in all_ops:
+        for op in all_ops:
+            l_val, m_val, z, primitive = op
             y0 = 90 * x * x - l_val * x + m_val
             p = z + 90 * (x - 1)
             if p <= 0 or y0 >= segment_end:
@@ -57,11 +60,20 @@ def compute_amplitudes(classes, start_index, total_length):
                 current = y0 + n * p
             else:
                 current = y0
+            marked = False
             while current < segment_end:
                 if current >= segment_start:
                     idx = current - segment_start
                     list_amp[idx] += 1
+                    marked = True
                 current += p
+            if marked:
+                active_cohort.add(op)  # Add unique op
+    
+    print(f"Intersecting operators (cohort C(segment)) for segment [{segment_start}, {segment_end}):")
+    for op in sorted(active_cohort):
+        print(op)
+    print(f"Cohort size: {len(active_cohort)}\n")
     
     return np.array(list_amp)
 
@@ -117,7 +129,7 @@ def show_interactive_highlighted_map(amplitudes, n_rows, m_cols,
 
 # ================= CONFIGURABLE PARAMETERS =================
 classes = [11]              # Example class
-start_index = 9000000000             # Starting n
+start_index = 900000             # Starting n
 total_length = 1000000        # Total indices (should be n_rows * m_cols)
 n_rows = 1000
 m_cols = 1000
